@@ -1,0 +1,45 @@
+
+body {
+  margin: 0px;
+  background-color: #FFFFE0;
+}
+ 
+.top {
+  margin: 0px;
+  background-color: #FFBBC8;
+  padding: 5px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#time {
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#img-sunrise {
+  background-position: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.textwrapper {
+  justify-content: center;
+}
+
+#switch-button {
+  background-color: #C2FFD9;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  font-size: 16px;
+  margin: 0 auto;
+  cursor: pointer;
+}

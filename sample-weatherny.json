@@ -1,0 +1,43 @@
+{
+    "coord": {
+    "lon": -73.95,
+    "lat": 40.65
+    },
+    "weather": [
+    {
+    "id": 800,
+    "main": "Clear",
+    "description": "clear sky",
+    "icon": "01d"
+    }
+    ],
+    "base": "stations",
+    "main": {
+    "temp": 286.26,
+    "feels_like": 280.93,
+    "temp_min": 281.48,
+    "temp_max": 290.37,
+    "pressure": 1015,
+    "humidity": 24
+    },
+    "visibility": 16093,
+    "wind": {
+    "speed": 3.6,
+    "deg": 150
+    },
+    "clouds": {
+    "all": 1
+    },
+    "dt": 1582576670,
+    "sys": {
+    "type": 1,
+    "id": 4686,
+    "country": "US",
+    "sunrise": 1582544287,
+    "sunset": 1582584024
+    },
+    "timezone": -18000,
+    "id": 5110302,
+    "name": "Brooklyn",
+    "cod": 200
+    }
